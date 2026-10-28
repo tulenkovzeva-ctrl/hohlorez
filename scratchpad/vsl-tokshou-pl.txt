@@ -1,18 +1,18 @@
-VSL „TALK-SHOW”. MĄŻ I ŻONA + PROFESOR. POLSKA.
-Role: PROWADZĄCY, JERZY, HALINA, PROFESOR, WIDZ 1–5. Profesor Malinowski, złote.
+ВСЛ «ТОК-ШОУ». МУЖ И ЖЕНА + ПРОФЕССОР. ПОЛЬША.
+Роли: ВЕДУЩИЙ, ЕЖИ (муж), ХАЛИНА (жена), ПРОФЕССОР, ЗРИТЕЛЬ 1–5. Профессор Malinowski. Заголовки на русском, реплики на польском.
 
 ==============================
-[PROWADZĄCY] — wstęp
+[ВЕДУЩИЙ] — вступление
 ==============================
 Dobry wieczór. Dziś mamy temat, o którym spiera się cały kraj. Głośne odkrycie stu dwuletniego profesora Malinowskiego, najstarszego laureata Nagrody Nobla w historii. Mówi się, że jego metoda pomogła już tysiącom ludzi stanąć na nogi bez operacji. Ale z jakiegoś powodu do dziś nie trafiła do aptek. Może wcale nie pomaga? A może po prostu ktoś jej nie przepuszcza? Dziś to wyjaśnimy. W studiu są ludzie, którzy wypróbowali metodę profesora. Przyszli opowiedzieć swoją historię. A potem wyjdzie sam profesor i odpowie na pytania z sali. Powitajmy. Jerzy i Halina Nowakowie, czterdzieści osiem lat razem.
 
 ==============================
-[PROWADZĄCY] — pytanie do Jerzego
+[ВЕДУЩИЙ] — вопрос мужу
 ==============================
 Panie Jerzy, dwa miesiące temu Halina poprosiła pana o coś strasznego. Niech pan opowie wszystko od początku, jak do tego doszło.
 
 ==============================
-[JERZY]
+[ЕЖИ, муж]
 ==============================
 Zawołała mnie do sypialni. Siedziała na łóżku i płakała. Spojrzała mi w oczy i powiedziała: „Jurek, ja już nie mogę. Zawieź mnie do domu opieki. Nie chcę być dla ciebie ciężarem”.
 
@@ -41,12 +41,12 @@ Prowadząca zapytała go, dlaczego jego metody nie ma w aptekach. Odpowiedział:
 Wziąłem telefon. Znalazłem. Postanowiliśmy wypróbować tę metodę. Płatność przy odbiorze, przyszło po czterech dniach.
 
 ==============================
-[PROWADZĄCY] — przejście do Haliny
+[ВЕДУЩИЙ] — переход к жене
 ==============================
 Jerzy znalazł i zamówił. Ale zamówić i uwierzyć to dwie różne rzeczy. Pani Halino, czy pani wtedy wierzyła, że to pomoże? Niech pani opowie, co było w pierwszych dniach i co potem.
 
 ==============================
-[HALINA]
+[ХАЛИНА, жена]
 ==============================
 Nie, nie wierzyłam. Pięć lat nic nie pomagało, a tu coś z telewizora. Tak mu powiedziałam: „Nie łudź się, Jurek. Nie pomoże”. On milczał i robił swoje. Rano i wieczorem, jak było napisane.
 
@@ -67,173 +67,173 @@ Teraz minęło dwa i pół miesiąca. Chodzę bez laski. Gotuję. Sprzątam. Do 
 Córka przyjechała w zeszłym tygodniu. Zobaczyła mnie przy kuchence. Zamarła w drzwiach. Potem rzuciła się do mnie, przytuliła. „Mamo, jak? Jak to możliwe?” Pokazałam na niego. Powiedziałam: „Tata znalazł. Nie poddał się”. Podeszła do ojca i powiedziała: „Tato, wybacz mi. Myślałam, że jesteś uparty. A ty uratowałeś jej życie”.
 
 ==============================
-[HALINA] — ciąg dalszy
+[ХАЛИНА, жена] — продолжение
 ==============================
 I Basia teraz też przyjmuje, ma kolana, trzeci stopień, proponowali operację. Miesiąc, i chodzi bez laski. Pan Kazimierz z trzeciego piętra, osiem lat rwy kulszowej, po trzech tygodniach ból minął. To nie tylko my.
 
 Dwa miesiące temu prosiłam męża, żeby zawiózł mnie do domu opieki. Dziś sama chodzę do sklepu. To wszystko, co chciałam powiedzieć.
 
 ==============================
-[PROWADZĄCY] — przedstawienie profesora
+[ВЕДУЩИЙ] — представление профессора
 ==============================
 Dwa miesiące temu prosiła, żeby zawieźć ją do domu opieki, dziś sama chodzi do sklepu. Zapytajmy tego, kto to stworzył. W studiu profesor Malinowski.
 
 ==============================
-[PROWADZĄCY] — pytanie 1 do profesora
+[ВЕДУЩИЙ] — вопрос 1 профессору
 ==============================
 Dzień dobry, panie profesorze. Dziękuję, że przyjął pan zaproszenie. Ma pan sto dwa lata, jest pan najstarszym laureatem Nagrody Nobla w historii, nagrodzonym za metodę odbudowy stawów. Twierdzi pan, że dokładna kombinacja ekstraktów ze zwykłej cytryny i soli morskiej wystarczy, żeby odbudować stawy i przywrócić pełnię życia w dwadzieścia jeden dni. Brzmi niemal niewiarygodnie, nawet trochę śmiesznie. A najbardziej niewiarygodne: wszedł pan tu sam, bez laski, wszedł pan po schodach studia łatwiej niż wielu sześćdziesięciolatków. Ale najbardziej uderzyło mnie coś innego: dowiedziałem się, że o pana formułę zabiegały Stany Zjednoczone, Niemcy, Rosja, Chiny i Izrael. Oferowali miliony i przeprowadzkę za granicę. A pan odmówił wszystkim. Niech pan powie szczerze, profesorze: to kolejna internetowa moda, czy naprawdę odkrył pan coś, co zmienia wszystko?
 
 ==============================
-[PROFESOR] — odpowiedź 1
+[ПРОФЕССОР] — ответ 1
 ==============================
 Dzień dobry. Tak, to wszystko prawda. Przyjeżdżali do mnie z pięciu krajów, najsilniejszych w światowej medycynie. Oferowali sumy, jakich nie widziałem przez całe życie, i laboratoria, o jakich każdy naukowiec tylko marzy. Odmówiłem wszystkim co do jednego. Bo to odkrycie nie jest na sprzedaż. Należy do mojego narodu. Siedemdziesiąt lat operowałem kręgosłupy i kolana w tym kraju i nie zdradzę ludzi, którym poświęciłem życie, za żadne pieniądze. Niech myślą, że mogą kupić każdego. Pokazałem im, że nie wszystko na tym świecie jest na sprzedaż.
 
 ==============================
-[PROWADZĄCY] — pytanie 2
+[ВЕДУЩИЙ] — вопрос 2
 ==============================
 Pański czyn zasługuje na szacunek, profesorze. Ale bądźmy szczerzy: przez lata słyszałem tysiące metod na stawy. Niech pan wyjaśni prostymi słowami: co sprawia, że pańska jest tak inna od wszystkich pozostałych?
 
 ==============================
-[PROFESOR] — odpowiedź 2
+[ПРОФЕССОР] — ответ 2
 ==============================
 Bardzo prosto. Każdy lek przeciwbólowy, każda operacja, każdy zastrzyk walczą tylko ze skutkiem, z bólem. Moja metoda walczy z prawdziwą przyczyną. Nie tłumi bólu na kilka godzin, tylko odbudowuje sam staw, niezależnie od wieku i od tego, jak bardzo jest zniszczony. Zaczyna pan czuć ciało tak, jakby miał pan znów dwadzieścia lat. Pierwsze wyniki przychodzą po kilku dniach. Pani Halina powiedziała: trzeciego dnia. A pełny kurs to tylko dwadzieścia jeden dni. Dwadzieścia jeden dni, po których budzi się pan w ciele, które uważał pan za stracone na zawsze.
 
 ==============================
-[PROWADZĄCY] — pytanie 3
+[ВЕДУЩИЙ] — вопрос 3
 ==============================
 Chwileczkę, naprawdę twierdzi pan, że to wszystko prawda? Zamieniam się w słuch, profesorze. Ale niech pan powie: dlaczego w takim razie nikomu do tej pory nie pomagało? Ludzie latami biorą leki, robią zastrzyki, stosują diety, a ból zawsze wraca.
 
 ==============================
-[PROFESOR] — odpowiedź 3
+[ПРОФЕССОР] — ответ 3
 ==============================
 Bo wszystko, co wiemy o stawach, opiera się na jednym wielkim błędzie całego systemu medycznego. Przyczyną niszczenia stawów nie jest wiek. Nie obciążenie. Nie stare urazy. Zdziwi się pan, ale wszystko sprowadza się do jednego jedynego hormonu, kortyzolu, hormonu stresu. Kiedy jego poziom wychodzi z równowagi, ciało przestaje wysyłać sygnał komórkom, które budują chrząstkę. I te komórki nie umierają, proszę to zapamiętać, one po prostu zasypiają. A gdy tylko zasną, produkcja kolagenu się zatrzymuje, chrząstka się ściera, stan zapalny staje się przewlekły, pojawiają się obrzęki i ból. Tabletki, zastrzyki i operacje nie ruszają kortyzolu. Tylko na chwilę blokują ból. Dlatego, ile by się pan nie leczył, staw dalej się niszczy. Dlatego pani Halinie po zastrzykach było gorzej.
 
 ==============================
-[PROWADZĄCY] — pytanie 4
+[ВЕДУЩИЙ] — вопрос 4
 ==============================
 Czyli nie jedzenie, nie tryb życia, nawet nie wiek, tylko hormon jest prawdziwym winowajcą? Szczerze mówiąc, to mnie zaskakuje. Ale przed chwilą powiedział pan, że cały system medyczny się myli. Jak lekarze przez tyle lat mogli się mylić z taką pewnością?
 
 ==============================
-[PROFESOR] — odpowiedź 4
+[ПРОФЕССОР] — ответ 4
 ==============================
 Mówmy zupełnie szczerze. Medycyna w tym kraju to biznes. Naprawdę pan myśli, że firmom farmaceutycznym opłaca się, żeby ludzie wyleczyli stawy raz na zawsze? Jeśli wszyscy wyzdrowieją, kto będzie kupował tabletki co miesiąc, rok po roku? Myślę, że zna pan odpowiedź. Nie opłaca im się naprawdę leczyć ludzi, bo wtedy nie będą zarabiać miliardów każdego miesiąca. Nie chcę nikogo obrażać, ale wszyscy rozumiemy, jak działa ten system. Ja po prostu postanowiłem pójść przeciwko niemu. I właśnie dlatego dziś farmaceutyczni giganci dosłownie polują na recepturę mojej formuły. Jeśli uda im się ją ukraść, zaczną sprzedawać ją ludziom za dziesiątki tysięcy.
 
 ==============================
-[PROWADZĄCY] — pytanie 5
+[ВЕДУЩИЙ] — вопрос 5
 ==============================
 A z czego ona właściwie się składa? Jak działa?
 
 ==============================
-[PROFESOR] — odpowiedź 5
+[ПРОФЕССОР] — ответ 5
 ==============================
 Rozłożyliśmy zwykłą cytrynę na części składowe i odkryliśmy coś zdumiewającego. Z pestki wydobyliśmy kwas salicylowy, który łagodzi stan zapalny i ból w naturalny sposób, bez chemii. Ze skórki wzięliśmy substancje, które podtrzymują i odżywiają chrząstkę. Z miąższu witaminę C, bez której ciało po prostu nie może produkować kolagenu. Dodaliśmy ekstrakt z soli morskiej, który odprowadza nadmiar płynu, zmniejsza obrzęk i pomaga unormować kortyzol. I jeszcze kilka naturalnych składników, które wzmacniają więzadła i poprawiają odżywienie stawu. Wszystko to w absolutnie dokładnych proporcjach, wynik lat badań. Tak narodziła się moja metoda.
 
 ==============================
-[PROWADZĄCY] — otwiera salę
+[ВЕДУЩИЙ] — открывает зал
 ==============================
 Dobrze. Ale sala ma pytania i widzę, że ludzie nie są nastawieni tak przychylnie. Proszę, mikrofon.
 
 ==============================
-[WIDZ 1]
+[ЗРИТЕЛЬ 1]
 ==============================
 Panie profesorze, moje stawy są prawie zniszczone, lekarze już proponują protezę. Do tego cukrzyca, do tego ciśnienie, do tego żołądek. Naprawdę pan twierdzi, że pańska metoda zadziała i w moim przypadku?
 
 ==============================
-[PROFESOR] — odpowiedź dla widza 1
+[ПРОФЕССОР] — ответ зрителю 1
 ==============================
 Niech pan mnie uważnie posłucha. Nawet jeśli kolana tylko trzeszczą przy każdym kroku. Nawet jeśli od dziesięciu lat nie może pan wejść po schodach bez bólu. Nawet jeśli lekarze już proponują protezę. Nawet jeśli pan zwątpił i ktoś powiedział panu, że nie ma nadziei, ona jest. Nie ma znaczenia, czy ma pan czterdzieści, sześćdziesiąt czy dziewięćdziesiąt lat. Jestem żywym dowodem: mam sto dwa lata i nie pamiętam, kiedy stawy w ogóle mi dokuczały. Metoda działa w każdym wieku, bo pracuje z prawdziwą przyczyną, z kortyzolem i śpiącymi komórkami. A ponieważ działa na samą podstawę, pomaga niezależnie od pana stanu, nawet jeśli ma pan inne problemy: słaby wzrok, bóle żołądka, cukrzycę, choroby nerek, wątroby czy dróg moczowych. U kobiet zapalenie pęcherza, u mężczyzn prostatę. Nawet jeśli ma pan alergię, to jest w stu procentach naturalne, tylko naturalne ekstrakty, ani jednego chemicznego czy syntetycznego składnika. Nawet jeśli wypróbował pan dziesiątki leków i stracił wszelką wiarę, to jest kombinacja, której przemysł farmaceutyczny po prostu nie potrafi skopiować.
 
 ==============================
-[WIDZ 2]
+[ЗРИТЕЛЬ 2]
 ==============================
 A jeśli odkrył pan to czterdzieści lat temu, dlaczego dopiero teraz dotarło to do ludzi? Gdzie pan był przez cały ten czas?
 
 ==============================
-[PROFESOR] — odpowiedź dla widza 2
+[ПРОФЕССОР] — ответ зрителю 2
 ==============================
 Odkryłem formułę czterdzieści lat temu i dawałem ją osobiście, każdemu swojemu pacjentowi, w gabinecie. Problem był inny. Dokładność jest tu wszystkim: każdy składnik musi być odmierzony co do setnej miligrama. W gabinecie mogłem to zrobić dla jednego człowieka. Ale wyprodukować tysiące opakowań, nie tracąc ani kropli mocy, przy ówczesnej technologii było niemożliwe. Dlatego poprosiłem wnuka. On też jest lekarzem, wyrósł w moim gabinecie i zna formułę na pamięć od dziecka. Spędził lata w laboratoriach, aż w końcu znalazł sposób, żeby ustabilizować ekstrakty w trwałej formie. Dopiero teraz, dzięki niemu, dotarło to do każdego domu. Ale odkrycie i nagroda są moje, on tylko pomógł ożyć dziełu mojego życia.
 
 ==============================
-[WIDZ 3]
+[ЗРИТЕЛЬ 3]
 ==============================
 Wszyscy mówią „tysiące ludzi”, „tysiące ludzi”. A gdzie dowody? Oprócz tej rodziny, kto jeszcze?
 
 ==============================
-[PROFESOR] — odpowiedź dla widza 3
+[ПРОФЕССОР] — ответ зрителю 3
 ==============================
 To nie tylko moja zasługa. Ta metoda to wynik siedmiu lat badań i ponad trzystu eksperymentów naukowych, razem z najlepszymi umysłami tego kraju. A odkąd zaczęliśmy się nią dzielić, ponad pięćdziesiąt tysięcy ludzi już przez nią przeszło i poczuło pełny efekt. Wszyscy odzyskali sprawność, swobodę ruchu i całkowicie uwolnili się od bólu. To nie jest opowieść. To fakt naukowy. I część tych ludzi przysłała nam nagrania, zaraz je państwo zobaczą.
 
 ==============================
-[WIDZ 4]
+[ЗРИТЕЛЬ 4]
 ==============================
 Panie profesorze, niech pan powie szczerze. Dlaczego w ogóle poświęcił pan temu życie? I dlaczego mamy wierzyć, że pańska metoda to nie kolejne oszustwo?
 
 ==============================
-[PROFESOR] — odpowiedź dla widza 4
+[ПРОФЕССОР] — ответ зрителю 4
 ==============================
 Bo sam przez to przeszedłem. Siedemdziesiąt lat operowałem. I z latami zobaczyłem coś, co nie dawało mi spokoju ani w dzień, ani w nocy. Dwóch z każdych trzech pacjentów wracało do mnie po roku, dwóch, w gorszym stanie niż przed operacją. Zrozumiałem, że tnę skutek, a nie przyczynę. Że cały mój zawód goni za bólem, zamiast leczyć człowieka. To pchnęło mnie do szukania innej drogi. Może system medyczny ukarze mnie za to, że naprawdę pomagam ludziom. Ale ja już nie boję się żadnej kary. Przeżyłem długie i szczęśliwe życie, a moja główna misja jest już spełniona: żeby inni nie przeżyli tego, co widziałem u tysięcy swoich pacjentów.
 
 ==============================
-[WIDZ 5]
+[ЗРИТЕЛЬ 5]
 ==============================
 Dobrze, załóżmy. Czy ten produkt będzie w aptekach? I ile kosztuje? Jestem na emeryturze.
 
 ==============================
-[PROFESOR] — odpowiedź dla widza 5
+[ПРОФЕССОР] — ответ зрителю 5
 ==============================
 Będę z panem szczery. Gdyby chciał pan zrobić tę formułę sam, potrzebowałby pan receptury ekstraktów, dostawców i skomplikowanego sprzętu laboratoryjnego, jaki mają nieliczni w tym kraju. Ja już zrobiłem to wszystko za pana. Dlatego niech pan uważnie posłucha. Podpisaliśmy umowy z aptekami. Ale kiedy zobaczyłem, jaką cenę chcą ustalić, od razu je zerwałem. Chcieli sprzedawać to za potrójną cenę, z wyjaśnieniem, że ludzie przestaną kupować chemiczne leki i chodzić po lekarzach. Tak mnie to oburzyło, że natychmiast zrezygnowałem z aptek. Moim celem nigdy nie był zysk, tylko pomoc całemu narodowi. Dlatego postanowiliśmy zaoferować produkt niemal po kosztach, w cenie zwykłych zakupów w supermarkecie. I nie płaci pan nic z góry.
 
 ==============================
-[PROWADZĄCY] — zapowiedź opinii
+[ВЕДУЩИЙ] — подводка к отзывам
 ==============================
 Kiedy rozmawialiśmy, do redakcji przyszły setki wiadomości od widzów, którzy już przeszli kurs. Nie zdążymy pokazać wszystkich. Oto kilka.
 
 ==============================
-[OPINIA 1] — mężczyzna, 67 lat
+[ОТЗЫВ 1] — мужчина, 67 лет
 ==============================
 Lekarz powiedział mi, że z takim bólem stawów za dwa miesiące będę na wózku inwalidzkim. Byłem w szoku. Potem zacząłem kurs profesora Malinowskiego. W dwadzieścia jeden dni ból zniknął całkowicie i pierwszy raz od lat nogi są lekkie. I to wszystko w domu, bez tabletek, bez operacji.
 
 ==============================
-[OPINIA 2] — kobieta, 71 lat
+[ОТЗЫВ 2] — женщина, 71 год
 ==============================
 Żadne wcześniejsze leczenie tak mi nie pomogło. Metoda profesora dosłownie uratowała moje stawy. W dwadzieścia jeden dni znów chodzę normalnie: bez bólu, bez trzeszczenia, bez strachu przed każdym ruchem. Czuję się żywa i pełna energii.
 
 ==============================
-[OPINIA 3] — mężczyzna, 74 lata
+[ОТЗЫВ 3] — мужчина, 74 года
 ==============================
 Profesor Malinowski leczył mnie osobiście dwanaście lat temu, kiedy prawie nie mogłem chodzić. Wtedy dał mi swoją metodę u siebie w gabinecie i stanąłem na nogi. Od tamtej pory czekałem, aż udostępnią ją wszystkim. I wreszcie się ukazała. Od razu zamówiłem i dla brata, i dla sąsiada. Cieszę się, że teraz każdy może mieć to w domu.
 
 ==============================
-[PROWADZĄCY] — po opiniach
+[ВЕДУЩИЙ] — после отзывов
 ==============================
 Różne miasta, różne historie, jeden wynik. Panie profesorze, co musi zrobić człowiek, żeby otrzymać produkt?
 
 ==============================
-[PROFESOR] — jak otrzymać
+[ПРОФЕССОР] — как получить
 ==============================
 Bardzo prosto. Wypełnia pan formularz pod tym filmem, tylko imię i telefon. Mój asystent oddzwoni, wyjaśni, jak prawidłowo przejść kurs, i dostarczy to pod pana drzwi w dwa-trzy dni, w całej Polsce. Płaci pan przy odbiorze, więc jest pan w pełni chroniony, nic nie daje pan z góry i żadnych danych karty. A po zakończeniu kursu daję panu stuprocentową gwarancję: obudzi się pan w zdrowym ciele, pełen energii, bez bólu i bez sztywności, nie tracąc czasu i pieniędzy na bezsensowne diety i chemię.
 
 ==============================
-[PROWADZĄCY] — ostatnie pytanie
+[ВЕДУЩИЙ] — последний вопрос
 ==============================
 Ostatnie pytanie, profesorze. Co tracimy, jeśli nie spróbujemy teraz?
 
 ==============================
-[PROFESOR] — dwie drogi
+[ПРОФЕССОР] — два пути
 ==============================
 W gruncie rzeczy ma pan dwie drogi. Pierwsza: zamknąć ten film i dalej żyć w ciele, które każdego dnia pana zdradza. Wstawać rano z jękiem. Patrzeć w lustro i widzieć ból, sztywność, strach. Żyć ze stałym trzeszczeniem, z dyskomfortem, ze strachem, że pewnego dnia zostanie pan przykuty do łóżka, jako ciężar dla dzieci. Życie bez ruchu, bez wolności, bez przyszłości. Jerzy dwa lata nosił żonę na rękach. Druga droga: przyjąć to, co panu proponuję, i uwolnić się od bólu stawów na zawsze. Wejść w nowe życie, w którym budzi się pan bez bólu w kolanach i plecach, wchodzi pan po schodach bez zastanowienia, spaceruje pan z wnukami w parku. Życie, w którym znów panuje pan nad swoim ciałem. Wybór należy do pana. Ale muszę uczciwie ostrzec: z powodu ogromnego popytu i ograniczonej produkcji zostało mi tylko czterdzieści siedem opakowań. Następna duża partia przyjdzie za jakieś dwa miesiące i nie jestem pewien, czy uda nam się utrzymać tę cenę. Każdy ma najwyżej dziesięć minut, zanim te opakowania się skończą, bo tysiące ludzi chcą uwolnić się od bólu już teraz.
 
 ==============================
-[PROWADZĄCY] — finał
+[ВЕДУЩИЙ] — финал
 ==============================
 Przyjaciele, zawsze mówiłem, że nie robię reklamy, tylko dzielę się tym, co widzę na własne oczy. Dwa miesiące temu kobieta prosiła męża, żeby zawiózł ją do domu opieki. Dziś siedzi w naszym studiu i sama chodzi do sklepu. Po wszystkim, co usłyszeliśmy i zobaczyliśmy, stwierdzam z przekonaniem: mają państwo prawdziwą szansę zmienić swoje życie i byłoby po prostu głupio ją przegapić. Panie Jerzy, ostatnie słowo należy do pana.
 
 ==============================
-[JERZY] — ostatnie słowo
+[ЕЖИ, муж] — последнее слово
 ==============================
 Jeśli pana żonę, męża, matkę bolą plecy, niech pan nie czeka. Niech pan nie czeka na wózek. Niech pan nie czeka, aż poproszą, żeby ich zawieźć. Ja nie czekałem. Nam pomogło. Pomoże i wam.
 
 ==============================
-[PROFESOR] — zakończenie
+[ПРОФЕССОР] — закрытие
 ==============================
 Nie proszę, żeby wierzyli mi państwo na słowo. Po prostu wypełnijcie formularz i przekonajcie się sami. Nie odkładajcie: jeśli nie teraz, to kiedy? To nie jest magiczna tabletka. To restart całego waszego życia, i ten restart zaczyna się od jednego prostego kroku. Zróbcie go dziś, a za dwadzieścia jeden dni powiecie mi dziękuję.
