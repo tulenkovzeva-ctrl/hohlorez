@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="PL">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="css/css.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/comments.css" />
+    <link rel="stylesheet" href="css/style_2.css" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+      referrerpolicy="no-referrer"
+    ></script>
+    <!-- <script src="js/scripts.js"></script> -->
+    <script src="js/video3.js"></script>
+    <script src="js/preload.js"></script>
+    <title>Endoclean</title>
+    <link rel="shortcut icon" href="images/product.webp" type="image/x-icon" />
+    <style>
+      .formFb__img {
+        max-width: 350px !important;
+      }
+      .tv_icons {
+        flex-wrap: wrap;
+      }
+      @media screen and (max-width: 360px) {
+        .main_header {
+          font-size: 30px;
+        }
+        .tv_icons > img {
+          scale: 0.7;
+        }
+      }
+      #video {
+        pointer-events: auto;
+      }
+      .iti {
+        width: 100%;
+      }
+      @media screen and (max-width: 500px) {
+        .main_header {
+          font-size: 25px;
+        }
+        .tv_icons {
+          gap: 10px;
+        }
+        .tv_icons img {
+          width: 85px;
+        }
+        .block_tv p {
+          font-size: 28px;
+        }
+        #open-video,
+        #popup,
+        #play {
+          font-size: 1rem;
+        }
+      }
+      @media screen and (max-width: 380px) {
+        .main_header {
+          font-size: 30px;
+        }
+        .block_tv p {
+          font-size: 24px;
+        }
+        .tv_icons img {
+          width: 70px;
+        }
+      }
+      .iti {
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="main_header">
+      NAJSKUTECZNIEJSZA DOMOWA RECEPTURA
+      <span class="green_bg"
+        >NA OCZYSZCZENIE ORGANIZMU Z PASOŻYTÓW JUŻ W 3 DNI!</span
+      >, 94% OSÓB, KTÓRE OBEJRZAŁY TO WIDEO DO KOŃCA,
+      POZBYŁO SIĘ PASOŻYTÓW I CHRONICZNEGO ZMĘCZENIA W 3 DNI!
+    </h1>
+    <div id="oneform"></div>
+    <div class="video_wrapper">
+      <div id="container_video">
+        <div id="close"></div>
+        <div id="open-video">
+          <div>
+            <h4>Kliknij, aby pozostać online</h4>
+          </div>
+        </div>
+        <div id="popup">
+          <div>
+            <button id="close-popup">×</button>
+            <h2>Zostało 17 opakowań Endoclean</h2>
+            <h2>Złóż zamówienie teraz!</h2>
+          </div>
+        </div>
+        <div id="play">
+          <div>
+            <h4>Wideo się rozpoczęło</h4>
+            <h4>Kliknij, aby słuchać!</h4>
+          </div>
+        </div>
+        <video
+          class="productVideo"
+          id="video"
+          autoplay="autoplay"
+          muted=""
+          playsinline=""
+          preload="metadata"
+        >
+          <source
+            src="video19.mp4"
+            type="video/mp4"
+          />
+        </video>
+        <div class="preload_container Deactivate">
+          <div class="preload_box">
+            <span class="preload_text"
+              >Twoje wideo się ładuje. Proszę czekać.</span
+            >
+            <span class="preload_timer">3</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <form id="order" class="order_form" action="/order.php" method="POST">
+      <input type="hidden" name="fbpx" value="{fbpx}" />
+      <input type="hidden" name="utm_code" value="{subid}" />
+      <input type="hidden" name="cid" value="{campaign_id}" />
+      <input type="hidden" name="sid" value="1643" />
+      <input type="hidden" name="hash" value="{hash}" />
+      <input type="hidden" name="country" value="PL" />
+      <div id="formFb" class="formFb">
+        <div class="formFb__container">
+          <p class="formFb__action formFb__text">
+            <b>POŚPIESZ SIĘ!</b> Promocyjne pakiety Endoclean wkrótce się skończą.
+          </p>
+          <p class="formFb__counter formFb__text">
+            <b>Aktualizacja:</b> zostało tylko
+            <span class="prod_left_val form-instock red">17</span> szt. na
+            <span class="js-current-date"></span>.
+          </p>
+          <script>
+            document.addEventListener('DOMContentLoaded', function () {
+              const leftPackElement = document.querySelector('.prod_left_val');
+              function decrementNumber() {
+                let currentNumber = parseInt(leftPackElement.textContent, 10);
+                if (!isNaN(currentNumber)) {
+                  if (currentNumber > 3) {
+                    currentNumber -= 1;
+                    leftPackElement.textContent = currentNumber;
+                  } else {
+                    clearInterval(intervalId);
+                  }
+                } else {
+                  console.error('The content is not a number.');
+                }
+              }
+              const intervalId = setInterval(decrementNumber, 30000);
+            });
+          </script>
+          <div class="formFb__img" style="text-align: center">
+            <img
+              src="images/product.webp"
+              alt=""
+              style="width: 100% !important;max-width:150px"
+            />
+          </div>
+          <div style="margin-bottom: 10px; display: flex; flex-direction: column; align-items: center;">
+              <div style="text-decoration: line-through; color: gray;">198 pln</div>
+              <div style="color: red; font-size: 24px;">99 pln</div>
+            </div>
+          <div class="formFb__inputs">
+            <label>Twoje imię:</label>
+            <input
+              name="name"
+              placeholder="Jan"
+              style="padding-left: 10px; padding: 0.5em 0.65em"
+              required="required"
+              autocomplete="name"
+              type="text"
+              minlength="3"
+            />
+          </div>
+          <div class="formFb__inputs">
+            <label>Twój telefon:</label>
+            <input
+              placeholder="+48 500 600 700"
+              name="phone"
+              class="phone input-flag"
+              required="required"
+              autocomplete="tel"
+              type="text"
+            />
+          </div>
+          <button class="formFb__btn" type="submit">WYŚLIJ ZAMÓWIENIE</button>
+          <!-- <p class="formFb__counter formFb__text">*Ta zniżka obowiązuje dla jednego opakowania przy zamówieniu pełnego kursu</p> -->
+        </div>
+      </div>
+    </form>
+    <style>
+      select {
+        display: block;
+        border: 1px solid #3578e563;
+        padding-left: 10px;
+        padding: 0.5em 0.65em;
+        width: 100%;
+        margin: 0 auto;
+      }
+    </style>
+    <style>
+      .fb-comments-wrapper {
+        display: none;
+        opacity: 0;
+      }
+    </style>
+    <script>
+      (function () {
+        var EVENT_NAME = 'VideoView25';
+        var THRESHOLD = 0.25; // 25%
+        var EPS_SECONDS = 1; // допуск к порогу
+        var MIN_DURATION = 0.5; // отсечь микровидео
+        var v = document.querySelector('.productVideo'); // одно HTML5-видео
+        if (!v) return;
+        var fired = false;
+        function getVideoId() {
+          return (
+            v.getAttribute('data-video-id') ||
+            v.id ||
+            v.currentSrc ||
+            v.src ||
+            'video'
+          );
+        }
+        function send(payload) {
+          (function trySend(i) {
+            if (typeof fbq === 'function') {
+              fbq('trackCustom', EVENT_NAME, payload);
+            } else if (i < 20) {
+              setTimeout(function () {
+                trySend(i + 1);
+              }, 250);
+            }
+          })(0);
+        }
+        function check() {
+          if (fired) return;
+          var dur = v.duration;
+          if (!isFinite(dur) || dur < MIN_DURATION) return;
+          var cur = v.currentTime || 0;
+          var thresholdSec = Math.max(dur * THRESHOLD - EPS_SECONDS, 0); // учли допуск
+          if (cur >= thresholdSec) {
+            fired = true;
+            v.removeEventListener('timeupdate', check);
+            v.removeEventListener('play', check);
+            v.removeEventListener('loadedmetadata', check);
+            send({
+              percent: 25,
+              videoId: getVideoId(),
+              duration: Math.round(dur),
+              currentTime: Math.round(cur),
+              source: 'html5',
+            });
+          }
+        }
+        if (v.readyState >= 1) setTimeout(check, 0);
+        v.addEventListener('loadedmetadata', check);
+        v.addEventListener('play', check);
+        v.addEventListener('timeupdate', check);
+      })();
+    </script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        var comments = document.querySelectorAll('.fb-comments-wrapper');
+        function fadeInElement(element, duration) {
+          var start = null;
+          function step(timestamp) {
+            if (!start) start = timestamp;
+            var progress = timestamp - start;
+            element.style.opacity = progress / duration;
+            if (progress < duration) {
+              window.requestAnimationFrame(step);
+            }
+          }
+          window.requestAnimationFrame(step);
+        }
+        function displayCommentsSequentially(index) {
+          if (index >= comments.length) {
+            return;
+          }
+          var comment = comments[index];
+          comment.style.display = 'block';
+          fadeInElement(comment, 500); // 500 миллисекунд для анимации появления
+          if (index > 0) {
+            comments[index - 1].parentNode.insertBefore(
+              comment,
+              comments[index - 1]
+            );
+          }
+          setTimeout(function () {
+            displayCommentsSequentially(index + 1);
+          }, 10000); // 10 секунд задержки
+        }
+        displayCommentsSequentially(0);
+      });
+    </script>
+<script async>
+  const LAZY = document.querySelectorAll('img');
+  for (let i = 0; i < LAZY.length; i++) {
+    LAZY[i].setAttribute('loading', 'lazy');
+  } </script>
+<script>
+  $("a").on("touchend, click", function (e) {
+    e.preventDefault();
+    $('body,html').animate({
+      scrollTop: $('#oneform').offset().top
+    }, 400);
+  });
+</script>
+<script>
+  $('[name="name"]').on("input", function () {
+    var val = $(this).val();
+    var cleaned = val
+      .replace(/[^\p{L}\s]/gu, "")
+      .replace(/^\s+/, "")
+      .replace(/\s\s+/, " ");
+    var parts = cleaned.split(" ");
+    if (parts.length > 2) {
+      cleaned = parts[0] + " " + parts[1];
+    }
+    $(this).val(cleaned);
+  });
+  $('[name="name"]').on("change blur", function () {
+    $(this).val($(this).val().trim());
+  });
+  $('[name="phone"]').on("input change", function (e) {
+    var val = $(this).val();
+    $(this).val(val.replace(/\D/g, ""));
+    $(e.currentTarget).attr("pattern", "[0-9]{6,}");
+  });
+</script>
+    <p style="opacity: 0;">{_box}</p>
+  </body>
+</html>
